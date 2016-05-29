@@ -1,17 +1,17 @@
 # Site wide configuration
 
-title:            Site Title
+title:            A Jekyll Test Site
 locale:           en_US
 logo:
 url:		http://ncsu-libraries.github.io/jekyll-academic/
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Brian Rosenblum
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "Testing out this jekyll template"
+  email: brianlee@ku.edu
   disqus-shortname:
-  twitter: #username
+  twitter: blros
   facebook: #username
   google:
     plus: #username
@@ -20,11 +20,11 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: blros
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
-  instagram: #username
+  instagram: blros
   lastfm: #username
   tumblr: #username
   pinterest: #username
