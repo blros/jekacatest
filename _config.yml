@@ -3,7 +3,7 @@
 title:            A Jekyll Test Site
 locale:           en_US
 logo:
-url:		http://ncsu-libraries.github.io/jekyll-academic/
+url:		#http://ncsu-libraries.github.io/jekyll-academic/
 baseurl: /jekacatest
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
