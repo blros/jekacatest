@@ -14,6 +14,6 @@ Option 1
 Option 2
 ![library-image]({{site.url}}/images/bibliotheque-nationale.jpg)
 
-##
+## Links
 
 [Link to Another site](http://idrh.ku.edu)
