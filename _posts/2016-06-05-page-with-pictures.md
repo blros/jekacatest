@@ -9,4 +9,4 @@ comments: true
 
 ## This page has pictures
 
-![image](images/bibliotheque-nationale.jpg)
+![image](../images/bibliotheque-nationale.jpg)
