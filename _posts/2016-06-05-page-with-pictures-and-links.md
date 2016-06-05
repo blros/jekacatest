@@ -8,9 +8,11 @@ comments: true
 ---
 
 ## Images
-
+Option 1
 ![library-image](../images/bibliotheque-nationale.jpg)
-![library-image]({{site.url}}/images/biblioteque-national.jp)
+
+Option 2
+![library-image]({{site.url}}/images/biblioteque-national.jpg)
 
 ##
 
