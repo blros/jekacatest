@@ -12,7 +12,7 @@ Option 1
 ![library-image](../images/bibliotheque-nationale.jpg)
 
 Option 2
-![library-image]({{site.url}}/images/biblioteque-national.jpg)
+![library-image]({{site.url}}/images/bibliotheque-nationale.jpg)
 
 ##
 
